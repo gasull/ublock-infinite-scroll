@@ -1,0 +1,11 @@
+! Title: Infinite scroll
+! Disable XHR https://www.reddit.com/r/web_design/comments/4i6bpd/never_ending_scroll_down_on_some_websites_is_it_a/d2w3qj2/
+||news.bitcoin.com$xmlhttprequest
+||qz.com$xmlhttprequest
+||theintercept.com$xmlhttprequest
+||vice.com$xmlhttprequest
+||www.aier.org$xmlhttprequest
+||www.bloomberg.com$xmlhttprequest
+||www.forbes.com$xmlhttprequest
+||www.makeuseof.com$xmlhttprequest
+||www.wired.co.uk$xmlhttprequest
