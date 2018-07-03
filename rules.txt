@@ -5,6 +5,7 @@
 ||theintercept.com$xmlhttprequest
 ||vice.com$xmlhttprequest
 ||www.aier.org$xmlhttprequest
+||www.axios.com$xmlhttprequest
 ||www.bloomberg.com$xmlhttprequest
 ||www.forbes.com$xmlhttprequest
 ||www.makeuseof.com$xmlhttprequest
