@@ -10,4 +10,5 @@
 ||www.bloomberg.com$xmlhttprequest
 ||www.forbes.com$xmlhttprequest
 ||www.makeuseof.com$xmlhttprequest
+||www.reuters.com$xmlhttprequest
 ||www.wired.co.uk$xmlhttprequest
