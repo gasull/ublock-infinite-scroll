@@ -5,7 +5,6 @@
 ||breakermag.com$xmlhttprequest
 ||news.bitcoin.com$xmlhttprequest
 ||qz.com$xmlhttprequest
-||sentry.io$xmlhttprequest
 ||techcrunch.com$xmlhttprequest
 ||theintercept.com$xmlhttprequest
 ||vice.com$xmlhttprequest
