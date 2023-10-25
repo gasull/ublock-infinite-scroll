@@ -3,7 +3,6 @@
 ||api.axios.com$xmlhttprequest
 ||apigw.scmp.com$xmlhttprequest
 ||breakermag.com$xmlhttprequest
-||news.bitcoin.com$xmlhttprequest
 ||qz.com$xmlhttprequest
 ||techcrunch.com$xmlhttprequest
 ||theintercept.com$xmlhttprequest
